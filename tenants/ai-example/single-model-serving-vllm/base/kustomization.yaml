@@ -6,7 +6,6 @@ namespace: ai-example-single-model-serving
 resources:
   - ./setup-jobs
   - data-connection.yaml
-  - inference-service.yaml
   - inference-service-llama.yaml
   - serving-runtime-llama.yaml
   - serving-runtime.yaml
