@@ -6,6 +6,7 @@ commonAnnotations:
 
 resources:
   - upload-model-job.yaml
+  - upload-model-llama-job.yaml
 
 generatorOptions:
   disableNameSuffixHash: true
